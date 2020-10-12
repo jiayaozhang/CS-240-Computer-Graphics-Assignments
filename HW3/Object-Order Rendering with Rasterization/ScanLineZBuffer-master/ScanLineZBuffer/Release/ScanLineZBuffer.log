@@ -1,0 +1,203 @@
+﻿  Display.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\omp.h(11,8): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\omp.h(11,12): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(17,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(17,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(24,1): error C2059: syntax error: 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(24,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\assert.h(14,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\assert.h(14,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(15,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(15,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ctime(17,1): error C2059: syntax error: 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ctime(17,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(3,7): error C2059: syntax error: 'using namespace'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(3,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(5,40): error C2838: 'engine': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(6,29): error C2838: 'model': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(7,52): error C2838: 'point_1st': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(8,52): error C2838: 'point_2rd': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(9,34): error C2838: 'RotateMat': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(11,23): error C2838: 'idx1': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(11,43): error C2838: 'idx2': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(12,13): error C3646: 'path': unknown override specifier
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(12,13): error C2059: syntax error: '='
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(12,26): error C2238: unexpected token(s) preceding ';'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(13,7): error C2143: syntax error: missing ';' before '<'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(13,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(13,25): error C2238: unexpected token(s) preceding ';'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(22,1): error C3254: 'Rasterizer': class contains explicit override '{ctor}' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(22,1): error C2838: '{ctor}': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(37,1): error C3254: 'Rasterizer': class contains explicit override '{dtor}' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(37,1): error C2838: '{dtor}': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(47,1): error C3254: 'Rasterizer': class contains explicit override 'loop' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(47,1): error C2838: 'loop': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(89,1): error C3254: 'Rasterizer': class contains explicit override 'reshape' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(89,1): error C2838: 'reshape': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(96,1): error C3254: 'Rasterizer': class contains explicit override 'run' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(96,1): error C2838: 'run': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(122,1): error C3254: 'Rasterizer': class contains explicit override 'drag_mouse' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(122,1): error C2838: 'drag_mouse': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(226,1): error C3254: 'Rasterizer': class contains explicit override 'keyboard' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(226,1): error C2838: 'keyboard': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(306,1): error C3254: 'Rasterizer': class contains explicit override 'screen_menu' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Display.cpp(306,1): error C2838: 'screen_menu': illegal qualified name in member declaration
+  main.cpp
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(7): fatal error C1075: '{': no matching token found
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\utils.h(12,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(43,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(43,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(43,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(44,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(44,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(44,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(46,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(46,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(46,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(47,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(47,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(47,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(49,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(49,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(49,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(50,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(50,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(50,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(52,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(52,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(52,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(53,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(53,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(53,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Shader.h(7,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\omp.h(11,8): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\omp.h(11,12): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(17,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(17,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(24,1): error C2059: syntax error: 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(24,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\assert.h(14,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\assert.h(14,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(15,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(15,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ctime(17,1): error C2059: syntax error: 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ctime(17,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GL\gl.h(25,8): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GL\gl.h(25,12): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GL\glu.h(26,8): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GL\glu.h(26,12): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\glut\glut.h(69,8): error C2059: syntax error: 'string'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\glut\glut.h(69,12): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\main.cpp(11,7): error C2059: syntax error: 'using namespace'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\main.cpp(11,20): error C2238: unexpected token(s) preceding ';'
+  Rasterizer.cpp
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(7): fatal error C1075: '{': no matching token found
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\utils.h(12,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(43,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(43,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(43,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(44,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(44,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(44,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(46,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(46,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(46,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(47,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(47,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(47,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(49,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(49,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(49,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(50,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(50,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(50,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(52,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(52,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(52,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(53,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(53,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(53,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(17,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(17,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(24,1): error C2059: syntax error: 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(24,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\omp.h(11,8): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\omp.h(11,12): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.cpp(7,7): error C2059: syntax error: 'using namespace'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.cpp(7,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.cpp(10,1): error C2535: 'Rasterizer::Rasterizer(void)': member function already defined or declared
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(13): message : see declaration of 'Rasterizer::Rasterizer'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.cpp(17,1): error C2535: 'void Rasterizer::setSize(int,int)': member function already defined or declared
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(15): message : see declaration of 'Rasterizer::setSize'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.cpp(23,1): error C2535: 'void Rasterizer::getSize(int &,int &)': member function already defined or declared
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(16): message : see declaration of 'Rasterizer::getSize'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.cpp(34,1): error C2535: 'void Rasterizer::run(Model &)': member function already defined or declared
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(18): message : see declaration of 'Rasterizer::run'
+  ScanLineZBuffer.cpp
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(7): fatal error C1075: '{': no matching token found
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\utils.h(12,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(43,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(43,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(43,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(44,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(44,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(44,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(46,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(46,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(46,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(47,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(47,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(47,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(49,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(49,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(49,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(50,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(50,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(50,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(52,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(52,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(52,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(53,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(53,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Vec.h(53,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\omp.h(11,8): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\omp.h(11,12): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(17,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(17,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(24,1): error C2059: syntax error: 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(24,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\assert.h(14,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\assert.h(14,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(15,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(15,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ctime(17,1): error C2059: syntax error: 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ctime(17,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(5,7): error C2059: syntax error: 'using namespace'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(5,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(8,1): error C3254: 'Rasterizer': class contains explicit override '{ctor}' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(8,1): error C2838: '{ctor}': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(8,1): error C2535: 'Rasterizer::Rasterizer(void)': member function already defined or declared
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(13): message : see declaration of 'Rasterizer::Rasterizer'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(13,1): error C3254: 'Rasterizer': class contains explicit override '{dtor}' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(13,1): error C2838: '{dtor}': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(18,1): error C3254: 'Rasterizer': class contains explicit override 'setSize' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(18,1): error C2838: 'setSize': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(18,1): error C2535: 'void Rasterizer::setSize(int,int)': member function already defined or declared
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(15): message : see declaration of 'Rasterizer::setSize'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(36,1): error C3254: 'Rasterizer': class contains explicit override 'getSize' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(36,1): error C2838: 'getSize': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(36,1): error C2535: 'void Rasterizer::getSize(int &,int &)': member function already defined or declared
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(16): message : see declaration of 'Rasterizer::getSize'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(42,1): error C3254: 'Rasterizer': class contains explicit override 'release' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(42,1): error C2838: 'release': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(62,1): error C3254: 'Rasterizer': class contains explicit override 'build' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(62,1): error C2838: 'build': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(143,1): error C3254: 'Rasterizer': class contains explicit override 'addEdge' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(143,1): error C2838: 'addEdge': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(183,47): error C3254: 'Rasterizer': class contains explicit override 'rescale' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(183,47): error C2838: 'rescale': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(188,1): error C3254: 'Rasterizer': class contains explicit override 'run' but does not derive from an interface that contains the function declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(188,1): error C2838: 'run': illegal qualified name in member declaration
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\ScanLineZBuffer.cpp(188,1): error C2535: 'void Rasterizer::run(Model &)': member function already defined or declared
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(18): message : see declaration of 'Rasterizer::run'
+C:\Users\ZHANJ0O\Downloads\computer graphics homework\ScanLineZBuffer-master\ScanLineZBuffer\Rasterizer.h(7): fatal error C1075: '{': no matching token found
