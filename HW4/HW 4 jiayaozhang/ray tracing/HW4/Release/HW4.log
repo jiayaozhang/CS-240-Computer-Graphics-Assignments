@@ -1,0 +1,24 @@
+﻿  bmp_io.cpp
+C:\Users\ZHANJ0O\source\repos\HW4\bmp_io.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ZHANJ0O\source\repos\HW4\bmp_io.cpp(267,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ZHANJ0O\source\repos\HW4\bmp_io.cpp(362,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ZHANJ0O\source\repos\HW4\bmp_io.cpp(512,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ZHANJ0O\source\repos\HW4\bmp_io.cpp(1236,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ZHANJ0O\source\repos\HW4\bmp_io.cpp(1319,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ZHANJ0O\source\repos\HW4\bmp_io.cpp(1443,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ZHANJ0O\source\repos\HW4\bmp_io.cpp(2185,20): warning C4018: '<': signed/unsigned mismatch
+  light_source.cpp
+  raytracer.cpp
+C:\Users\ZHANJ0O\source\repos\HW4\bmp_io.cpp(2446,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ZHANJ0O\source\repos\HW4\raytracer.cpp(222,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xtgmath.h(22,107): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\ZHANJ0O\source\repos\HW4\raytracer.cpp(461,107): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\ZHANJ0O\source\repos\HW4\raytracer.cpp(462,107): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\ZHANJ0O\source\repos\HW4\raytracer.cpp(553,66): error C2664: 'void Raytracer::render(int,int,Point3D,Vector3D,Vector3D,double,char *)': cannot convert argument 7 from 'const char [10]' to 'char *'
+C:\Users\ZHANJ0O\source\repos\HW4\raytracer.cpp(553,55): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\ZHANJ0O\source\repos\HW4\raytracer.cpp(330,17): message : see declaration of 'Raytracer::render'
+C:\Users\ZHANJ0O\source\repos\HW4\raytracer.cpp(558,68): error C2664: 'void Raytracer::render(int,int,Point3D,Vector3D,Vector3D,double,char *)': cannot convert argument 7 from 'const char [10]' to 'char *'
+C:\Users\ZHANJ0O\source\repos\HW4\raytracer.cpp(558,57): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  scene_object.cpp
+  util.cpp
+C:\Users\ZHANJ0O\source\repos\HW4\raytracer.cpp(330,17): message : see declaration of 'Raytracer::render'
